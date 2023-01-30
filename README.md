@@ -8,3 +8,8 @@ Bengal Warriors
 1. Mahinder Singh
 2. Shrikant Jadhav
 3. Akash Pikalmunde
+
+-----------
+* Telugu Titans
+* Bengaluru Bulls
+* Tamil Thalaivas
