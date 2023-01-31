@@ -16,3 +16,12 @@ Bengal Warriors
 
 
 [Link to AboutMe.md](https://github.com/anjalimaguluri/assignment2-Maguluri/blob/main/AboutMe.md) 
+
+--------------
+| Name of the Country | Reason | Number Of Days|
+| ----------| ------| ------|
+| South korean | Beautiful place & N.Tower Seoul and lot of k-pop like BTS |28|
+| India | Architecture |23|
+| United Kingdom | best museums and galleries in the world | 19|
+| Italy | Rich in history & Italian food | 27 |
+
