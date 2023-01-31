@@ -17,6 +17,7 @@ Bengal Warriors
 
 [Link to AboutMe.md](https://github.com/anjalimaguluri/assignment2-Maguluri/blob/main/AboutMe.md) 
 
+### Countries to visit
 --------------
 | Name of the Country | Reason | Number Of Days|
 | ----------| ------| ------|
