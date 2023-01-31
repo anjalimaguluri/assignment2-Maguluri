@@ -48,3 +48,4 @@ const unique = array.filter((element, index) => {
 });
 
 ```
+Lets go to the code snippet <https://css-tricks.com/snippets/javascript/remove-duplicates-from-an-array/>
