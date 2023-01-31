@@ -33,3 +33,6 @@ Bengal Warriors
 
 > "My wallet is like an onion, opening it makes me cry."  *Kate*
 
+### Code Fencing
+---------------
+> Convert dictionary JavaScript object to List of Items. [Link to the article on stack overflow] (https://stackoverflow.com/questions/75291909/convert-dictionary-javascript-object-to-list-of-items)
