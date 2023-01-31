@@ -35,4 +35,4 @@ Bengal Warriors
 
 ### Code Fencing
 ---------------
-> Convert dictionary JavaScript object to List of Items. (https://stackoverflow.com/questions/75291909/convert-dictionary-javascript-object-to-list-of-items)
+> Convert dictionary JavaScript object to List of Items. https://stackoverflow.com/questions/75291909/convert-dictionary-javascript-object-to-list-of-items
