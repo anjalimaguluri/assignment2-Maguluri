@@ -28,8 +28,8 @@ Bengal Warriors
 
 ### Pithy Quotes
 
-< "I’m not running away from hard work, I’m too lazy to run". > *Kate
+> "I’m not running away from hard work, I’m too lazy to run."  *Kate*
 
 
-< "My wallet is like an onion, opening it makes me cry". >  *Kate
+> "My wallet is like an onion, opening it makes me cry."  *Kate*
 
