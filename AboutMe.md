@@ -4,4 +4,3 @@ Myself Naganjali Maguluri and i'm from india.The funny and interesting fact abou
 
 ![insert](Myphoto.jpeg)
 
-[Link to AboutMe.md](https://github.com/anjalimaguluri/assignment2-Maguluri/blob/main/AboutMe.md) 

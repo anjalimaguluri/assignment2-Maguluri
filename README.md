@@ -13,3 +13,4 @@ Bengal Warriors
 * Telugu Titans
 * Bengaluru Bulls
 * Tamil Thalaivas
+[Link to AboutMe.md](https://github.com/anjalimaguluri/assignment2-Maguluri/blob/main/AboutMe.md) 
