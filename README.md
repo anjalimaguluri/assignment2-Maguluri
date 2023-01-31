@@ -28,8 +28,8 @@ Bengal Warriors
 
 ### Pithy Quotes
 
-< "I always wanted to be somebody, but now I realize I should have been more specific. >
+< "I’m not running away from hard work, I’m too lazy to run". > *Kate
 
 
-< "Live for today and let tomorrow come later. >
+< "My wallet is like an onion, opening it makes me cry". >  *Kate
 
