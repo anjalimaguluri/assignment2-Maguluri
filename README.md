@@ -35,4 +35,16 @@ Bengal Warriors
 
 ### Code Fencing
 ---------------
-> Convert dictionary JavaScript object to List of Items. https://stackoverflow.com/questions/75291909/convert-dictionary-javascript-object-to-list-of-items
+> Convert dictionary JavaScript object to List of Items. <https://stackoverflow.com/questions/75291909/convert-dictionary-javascript-object-to-list-of-items>
+
+```
+const array = [1, 1, 1, 3, 3, 2, 2];
+const unique = [...new Set(array)];
+const unique = array.reduce((result, element) => {
+  return result.includes(element) ? result : [...result, element];
+}, []);
+const unique = array.filter((element, index) => {
+  return array.indexOf(element) === index;
+});
+
+```
