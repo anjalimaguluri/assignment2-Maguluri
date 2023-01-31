@@ -26,3 +26,8 @@ Bengal Warriors
 | United Kingdom | best museums and galleries in the world | 19|
 | Italy | Rich in history & Italian food | 27 |
 
+### Pithy Quotes
+
+< "I always wanted to be somebody, but now I realize I should have been more specific. >
+< "Live for today and let tomorrow come later. >
+
