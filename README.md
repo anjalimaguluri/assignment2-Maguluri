@@ -29,5 +29,7 @@ Bengal Warriors
 ### Pithy Quotes
 
 < "I always wanted to be somebody, but now I realize I should have been more specific. >
+
+
 < "Live for today and let tomorrow come later. >
 
